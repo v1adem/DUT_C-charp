@@ -1,0 +1,15 @@
+C:\C-sharp\DUT_C-charp\practical1\practical1\bin\Debug\net6.0\practical1.exe
+C:\C-sharp\DUT_C-charp\practical1\practical1\bin\Debug\net6.0\practical1.deps.json
+C:\C-sharp\DUT_C-charp\practical1\practical1\bin\Debug\net6.0\practical1.runtimeconfig.json
+C:\C-sharp\DUT_C-charp\practical1\practical1\bin\Debug\net6.0\practical1.dll
+C:\C-sharp\DUT_C-charp\practical1\practical1\bin\Debug\net6.0\practical1.pdb
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.csproj.AssemblyReference.cache
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.AssemblyInfoInputs.cache
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.AssemblyInfo.cs
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.csproj.CoreCompileInputs.cache
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.dll
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\refint\practical1.dll
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.pdb
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\practical1.genruntimeconfig.cache
+C:\C-sharp\DUT_C-charp\practical1\practical1\obj\Debug\net6.0\ref\practical1.dll
