@@ -1,0 +1,15 @@
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+C:\C-sharp\DUT_C-charp\lab2\lab2\bin\Debug\net6.0\lab2.exe
+C:\C-sharp\DUT_C-charp\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+C:\C-sharp\DUT_C-charp\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+C:\C-sharp\DUT_C-charp\lab2\lab2\bin\Debug\net6.0\lab2.dll
+C:\C-sharp\DUT_C-charp\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.dll
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+C:\C-sharp\DUT_C-charp\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll

@@ -1,0 +1,15 @@
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\C-sharp\DUT_C-charp\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
